@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:divyasreedandu28@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/divyasree">💼 LinkedIn</a> &nbsp;|&nbsp;
-  📍 Kadapa, Andhra Pradesh · Open to Remote & Bangalore
+  📍 Kadapa, Andhra Pradesh · Open to Remote & Bangalore,Hyderabad
 </p>
 
 ---
